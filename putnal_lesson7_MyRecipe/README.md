@@ -4,20 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-July 28th, 2017
+(Month Day, Year)
 
 ### Student Name:  
-Stephen Putnal
+(First and Last Name)
 
 ### Project Description:
-The program was a recipe that had animated effects, and was more inter
+(In your own words, briefly describe the assignment.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. We learned the Display function
-2. Added anmination to the recipe application. 
-3. We learned more about traversing the DOM. 
+1. (Briefly describe a lesson/concept learned in this lesson.)
+2. (Briefly describe a lesson/concept learned in this lesson.)
+3. (Briefly describe a lesson/concept learned in this lesson.)
 
